@@ -1,0 +1,4 @@
+gitpython
+python-magic
+transformers
+torch
